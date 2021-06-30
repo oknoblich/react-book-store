@@ -1,0 +1,19 @@
+.directory-item {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: calc(25% - 10px);
+  height: 400px;
+  margin: 0 5px;
+  border-radius: 4px;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
+.directory-item .title {
+  padding: 10px 13px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+}

@@ -1,0 +1,20 @@
+.cart-icon {
+  position: relative;
+  padding: 9px 25px !important;
+}
+
+.cart-icon .icon {
+  width: 26px;
+  height: 26px;
+}
+
+.cart-icon span {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  width: 100%;
+  font-size: 11px;
+  font-weight: 700;
+  text-align: center;
+  color: #222;
+}

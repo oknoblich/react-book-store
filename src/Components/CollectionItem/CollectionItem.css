@@ -1,0 +1,20 @@
+.collection-item .image {
+  height: 250px;
+  border-radius: 4px;
+  background-size: cover;
+  background-position: center;
+}
+
+.collection-item .footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.collection-item .footer .name {
+  flex: 1;
+}
+
+.collection-item .footer .price {
+  width: auto;
+}
